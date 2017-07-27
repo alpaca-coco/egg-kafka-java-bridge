@@ -34,7 +34,7 @@ $ npm i egg-kafka-java-bridge --save
 
 ```js
 // {app_root}/config/plugin.js
-exports.kafkaJavaBridge = {
+exports.kafka = {
   enable: true,
   package: 'egg-kafka-java-bridge',
 };
@@ -44,7 +44,7 @@ exports.kafkaJavaBridge = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.kafkaJavaBridge = {
+exports.kafka = {
 };
 ```
 
