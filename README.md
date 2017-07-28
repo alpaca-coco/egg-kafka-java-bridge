@@ -23,12 +23,14 @@
 <!--
 Description here.
 -->
+https://support.apple.com/kb/DL1572?locale=zh_CN
 
 ## Install
 
 ```bash
 $ npm i egg-kafka-java-bridge --save
 ```
+
 
 ## Usage
 
